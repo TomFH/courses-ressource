@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE ACCES RESEAU.md",
+            "file": "RESEAU/DNS/INTRODUCTION.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE ACCES RESEAU.md",
+                "file": "RESEAU/DNS/INTRODUCTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE ACCES RESEAU.md",
+                "file": "RESEAU/DNS/INTRODUCTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE ACCES RESEAU.md"
+                "file": "RESEAU/DNS/INTRODUCTION.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05a7e3ae9e899e9a",
+  "active": "e46522e16c433fb3",
   "lastOpenFiles": [
-    "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE INTERNET.md",
-    "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE TRANSPORT.md",
-    "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE APPLICATION.md",
-    "RESEAU/MODELES RESEAUX/MODELE OSI/COUCHE APPLICATION.md",
-    "RESEAU/MODELES RESEAUX/MODELE OSI/COUCHE PRESENTATION.md",
-    "RESEAU/MODELES RESEAUX/MODELE OSI/COUCHE SESSION.md",
-    "RESEAU/MODELES RESEAUX/MODELE OSI/COUCHE TRANSPORT.md",
-    "RESEAU/MODELES RESEAUX/MODELE OSI/COUCHE RESEAU.md",
-    "RESEAU/Modèle Réseau.md",
-    "RESEAU/MODELES RESEAUX/MODELE OSI/COUCHE LIAISON.md"
+    "WINDOWS/SERVER DNS/DNS.md",
+    "WINDOWS/SERVER DHCP/DHCP.md",
+    "RESEAU/DNS/INTRODUCTION.md",
+    "WINDOWS/GOOD PRACTICE.md",
+    "QUICKNOTES.md",
+    "Index.md",
+    "z5z1csxn.bmp",
+    "Pasted image 20220923094132.png",
+    "PFSENSE/INTRO.md",
+    "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE ACCES RESEAU.md"
   ]
 }
