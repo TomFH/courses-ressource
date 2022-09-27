@@ -9,8 +9,6 @@ Add-DhcpServerSecurityGroup
 
 # CONFIGURATION
 
-![[Pasted image 20220923094132.png]]
-
 - Get-DhcpServerv4Scope : Lister les étendues DHCP  
 - Add-DhcpServerv4Scope : Créer une étendue DHCP  
 - Remove-DhcpServerv4Scope : Supprimer une étendue DHCP  

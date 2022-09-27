@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RESEAU/DNS/INTRODUCTION.md",
+            "file": "DOCKER/KNOWLEDGES.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESEAU/DNS/INTRODUCTION.md",
+                "file": "DOCKER/KNOWLEDGES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESEAU/DNS/INTRODUCTION.md",
+                "file": "DOCKER/KNOWLEDGES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESEAU/DNS/INTRODUCTION.md"
+                "file": "DOCKER/KNOWLEDGES.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e46522e16c433fb3",
+  "active": "05a7e3ae9e899e9a",
   "lastOpenFiles": [
-    "WINDOWS/SERVER DNS/DNS.md",
+    "WINDOWS/SERVEUR HYPERV/KNOWLEDGES.md",
     "WINDOWS/SERVER DHCP/DHCP.md",
-    "RESEAU/DNS/INTRODUCTION.md",
     "WINDOWS/GOOD PRACTICE.md",
-    "QUICKNOTES.md",
-    "Index.md",
+    "Pasted image 20220926131051.png",
+    "WINDOWS/SERVER DNS/DNS.md",
+    "RESEAU/DNS/INTRODUCTION.md",
     "z5z1csxn.bmp",
-    "Pasted image 20220923094132.png",
-    "PFSENSE/INTRO.md",
-    "RESEAU/MODELES RESEAUX/MODELE TCP IP/COUCHE ACCES RESEAU.md"
+    "Index.md",
+    "Pasted image 20220923094132.png.md",
+    "QUICKNOTES.md"
   ]
 }
