@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DOCKER/KNOWLEDGES.md",
+            "file": "RESEAU/DMZ/INTRODUCTION.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCKER/KNOWLEDGES.md",
+                "file": "RESEAU/DMZ/INTRODUCTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOCKER/KNOWLEDGES.md",
+                "file": "RESEAU/DMZ/INTRODUCTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOCKER/KNOWLEDGES.md"
+                "file": "RESEAU/DMZ/INTRODUCTION.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "05a7e3ae9e899e9a",
   "lastOpenFiles": [
-    "WINDOWS/SERVEUR HYPERV/KNOWLEDGES.md",
-    "WINDOWS/SERVER DHCP/DHCP.md",
     "WINDOWS/GOOD PRACTICE.md",
+    "Index.md",
+    "QUICKNOTES.md",
+    "WINDOWS/SERVEUR HYPERV/KNOWLEDGES.md",
+    "DOCKER/KNOWLEDGES.md",
+    "WINDOWS/SERVER DHCP/DHCP.md",
     "Pasted image 20220926131051.png",
     "WINDOWS/SERVER DNS/DNS.md",
     "RESEAU/DNS/INTRODUCTION.md",
-    "z5z1csxn.bmp",
-    "Index.md",
-    "Pasted image 20220923094132.png.md",
-    "QUICKNOTES.md"
+    "z5z1csxn.bmp"
   ]
 }
